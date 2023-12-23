@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&text="Hello,World!"&section=header&fontSize=90)
 
-# 🖤 안녕하세요, 개발자 Hyun 입니다.
+# 🖤 안녕하세요, JeongHyun 입니다.
 
 
 ## 💁🏻‍♀️ About Me 
