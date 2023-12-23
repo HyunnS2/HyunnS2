@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&text="Hello,World!"&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&text="Hello,World!"&section=header&fontSize=70)
 
 # 🖤 안녕하세요, JeongHyun 입니다.
 
