@@ -7,11 +7,9 @@
 ### 💁🏻‍♀️ About Me 
 ----------
 
-# 
 ##### 🏡 [ 블로그 바로가기 ](https://devhenkong.tistory.com)  
-#
 
-# 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunnS2&layout=compact) 
 
 ### 🛠️ STACKS
