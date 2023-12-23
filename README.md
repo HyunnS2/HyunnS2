@@ -1,11 +1,11 @@
 <!--### Hi there 👋-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&text="Hello,World!"&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&text="Hello,World!"&section=header&fontSize=50)
 
 # 🖤 안녕하세요, 개발자 Hyun 입니다.
 
 
 ## 💁🏻‍♀️ About Me 
-----------
+
 
 #### 🏡 [ 블로그 바로가기 ](https://devhenkong.tistory.com)  
 
@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunnS2&layout=compact) 
 
 ## 🛠️ STACKS
-----------
+
 
 #### Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    
